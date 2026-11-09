@@ -1,0 +1,16 @@
+{
+  "upload_type": "dataset",
+  "title": "Urban renewal in Israel by city (pinui-binui / TAMA 38): Mitar open data",
+  "description": "<p>City-level figures on urban-renewal projects in Israel for 81 cities and local authorities. For each city: the number of projects, the number with an approved plan, planned housing units, the median time from plan deposit to approval, and building permits reported by the Government Urban Renewal Authority. Aggregated by Mitar (mitar.co.il) from the Israel Planning Administration's plans layer (Xplan) and the Government Urban Renewal Authority's declared compounds. The README documents every column, how it is computed, and its caveats. Live version, regenerated daily: https://mitar.co.il/data/cities.json</p>",
+  "creators": [
+    {"name": "Shalom, Amit", "affiliation": "Mitar (mitar.co.il)"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["urban renewal", "pinui-binui", "TAMA 38", "Israel", "housing", "planning", "open data", "התחדשות עירונית", "פינוי בינוי"],
+  "language": "heb",
+  "related_identifiers": [
+    {"identifier": "https://mitar.co.il/data/cities.json", "relation": "isSupplementTo", "resource_type": "dataset"},
+    {"identifier": "https://mitar.co.il", "relation": "isDocumentedBy"}
+  ]
+}

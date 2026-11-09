@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit מתאר (mitar.co.il)."
+title: "Urban renewal in Israel by city (pinui-binui / TAMA 38): Mitar open data"
+type: dataset
+authors:
+  - family-names: Shalom
+    given-names: Amit
+    affiliation: "Mitar (mitar.co.il)"
+license: CC-BY-4.0
+url: "https://mitar.co.il/data/cities.json"
+repository-code: "https://github.com/AlonDrilich/mitar-urban-renewal-israel"
+date-released: "2026-11-10"
+keywords:
+  - urban renewal
+  - pinui-binui
+  - Israel
+  - housing
