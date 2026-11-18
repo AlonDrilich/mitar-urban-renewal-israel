@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below and credit מתאר (mitar.co.il)."
+message: "If you use this dataset, please cite it as below and credit מתאר (mitar.co.il), together with the Government Urban Renewal Authority (Ministry of Construction and Housing) and the Israel Planning Administration, whose data it is based on."
 title: "Urban renewal in Israel by city (pinui-binui / TAMA 38): Mitar open data"
 type: dataset
 authors:
@@ -9,7 +9,8 @@ authors:
 license: CC-BY-4.0
 url: "https://mitar.co.il/data/cities.json"
 repository-code: "https://github.com/AlonDrilich/mitar-urban-renewal-israel"
-date-released: "2026-11-10"
+version: "2026-11-18-c"
+date-released: "2026-11-18"
 keywords:
   - urban renewal
   - pinui-binui

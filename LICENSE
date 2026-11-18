@@ -1,6 +1,13 @@
-The data in this repository (data/cities.json, data/cities.csv) is licensed under the
-Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Mitar's processing, selection and arrangement of the data in this repository
+(data/cities.json, data/cities.csv) are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
 
 Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
 
-Attribution requested: "מתאר (mitar.co.il)", a link to https://mitar.co.il, and the date of the data.
+Copyright in the government data they contain belongs to the State of Israel,
+and its use is subject to the source licences listed in README.md and in the
+source_licenses field of data/cities.json.
+
+Attribution: "מתאר (mitar.co.il), על בסיס נתוני הרשות הממשלתית להתחדשות עירונית
+(משרד הבינוי והשיכון) ומנהל התכנון", a link to https://mitar.co.il, and the
+date of the data.
